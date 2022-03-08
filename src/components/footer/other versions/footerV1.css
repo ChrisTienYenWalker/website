@@ -1,0 +1,43 @@
+* p, a, ul, li{
+    font-size: 16px;
+    font-size: 1.5vw;
+    text-decoration: none;
+    list-style-type: none;
+    transition:font-size .2s;
+
+}
+
+* h1{
+    font-size: 32px;
+    font-size: 2vw;
+}
+
+
+* a:hover{
+    text-decoration: underline;
+    transition:font-size .17s;
+    font-size: 1.4vw;
+}
+
+.contact {
+    position: absolute;
+    left: 20vw;
+    top: 5%;
+}
+
+.extra{
+    position: absolute;
+    left: 60vw;
+    top: 5%;
+}
+
+
+.box{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    height: 30vh;
+    background-color: rgba(131, 150, 203, 0.51);
+}
+

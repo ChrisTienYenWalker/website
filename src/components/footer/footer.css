@@ -1,0 +1,55 @@
+* h1{
+    font-size: 32px;
+    font-size: 2vw;
+}
+* {
+    text-decoration: none;
+    list-style-type: none;
+}
+.box img{
+    height: 4vw;
+    width: 4vw;
+    transition: .2s;
+    border-radius: 10%;
+}
+.box img:hover{
+    transform: scale(1.2);
+    transition: .2s;
+}
+
+.box{
+    position: relative;
+    bottom: -2px; left: 0;
+    height: 30vh;
+    width: 100%; 
+    background-color: rgba(131, 150, 203, 0.51);
+}
+
+.box li{
+    padding-top: 3vh;
+    float: right;
+    margin-left: 3.0vw;
+    margin-right: 5vw;
+    
+}
+.contact {
+    margin: auto;
+    position: relative;
+    padding-top: 6vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.contact h1{
+    font-size: 1vmin;
+    font-size: 3vmax;
+    text-align: center;
+} 
+
+.contactList{
+    margin-top:5vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
