@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/christopherwalker.ca/static/css/main.d2034a94.css",
-    "main.js": "/christopherwalker.ca/static/js/main.5b4fe3eb.js",
+    "main.js": "/christopherwalker.ca/static/js/main.3d9b3220.js",
     "static/js/415.36d38246.chunk.js": "/christopherwalker.ca/static/js/415.36d38246.chunk.js",
     "static/js/787.ba10f0f7.chunk.js": "/christopherwalker.ca/static/js/787.ba10f0f7.chunk.js",
     "static/media/Vex.jpg": "/christopherwalker.ca/static/media/Vex.ff12618c99fac7f3cb52.jpg",
@@ -16,12 +16,12 @@
     "static/media/levels.png": "/christopherwalker.ca/static/media/levels.1efeedabcc15ef4eb7f7.png",
     "index.html": "/christopherwalker.ca/index.html",
     "main.d2034a94.css.map": "/christopherwalker.ca/static/css/main.d2034a94.css.map",
-    "main.5b4fe3eb.js.map": "/christopherwalker.ca/static/js/main.5b4fe3eb.js.map",
+    "main.3d9b3220.js.map": "/christopherwalker.ca/static/js/main.3d9b3220.js.map",
     "415.36d38246.chunk.js.map": "/christopherwalker.ca/static/js/415.36d38246.chunk.js.map",
     "787.ba10f0f7.chunk.js.map": "/christopherwalker.ca/static/js/787.ba10f0f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2034a94.css",
-    "static/js/main.5b4fe3eb.js"
+    "static/js/main.3d9b3220.js"
   ]
 }
