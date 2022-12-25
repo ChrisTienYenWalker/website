@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch ,Route, Link } from 'react-router-dom';
+import { Switch ,Route } from 'react-router-dom';
 import About from './components/body/about';
 import Home from './components/body/highlights';
 import Work from './components/body/work';
