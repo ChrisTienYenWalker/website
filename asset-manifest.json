@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2034a94.css",
-    "main.js": "/static/js/main.766b6db5.js",
-    "static/js/415.36d38246.chunk.js": "/static/js/415.36d38246.chunk.js",
-    "static/js/787.ba10f0f7.chunk.js": "/static/js/787.ba10f0f7.chunk.js",
-    "static/media/Vex.jpg": "/static/media/Vex.ff12618c99fac7f3cb52.jpg",
-    "static/media/Me.jpg": "/static/media/Me.f9838b2d16924cfd18d4.jpg",
-    "static/media/CU.jpg": "/static/media/CU.70df637871392439c89d.jpg",
-    "static/media/grade11.png": "/static/media/grade11.2290453a56a5f54efd58.png",
-    "static/media/G11CE.png": "/static/media/G11CE.18ad42796d2d02302d56.png",
-    "static/media/Digitera.png": "/static/media/Digitera.3594c58e99519753a038.png",
-    "static/media/Kinaxis.png": "/static/media/Kinaxis.be486a90804429a0650b.png",
-    "static/media/uottawa.jpg": "/static/media/uottawa.c54a7b8ddb4643212590.jpg",
-    "static/media/CityOfOttawa.jpeg": "/static/media/CityOfOttawa.c271e85409883336e0c3.jpeg",
-    "static/media/levels.png": "/static/media/levels.1efeedabcc15ef4eb7f7.png",
-    "index.html": "/index.html",
-    "main.d2034a94.css.map": "/static/css/main.d2034a94.css.map",
-    "main.766b6db5.js.map": "/static/js/main.766b6db5.js.map",
-    "415.36d38246.chunk.js.map": "/static/js/415.36d38246.chunk.js.map",
-    "787.ba10f0f7.chunk.js.map": "/static/js/787.ba10f0f7.chunk.js.map"
+    "main.css": "/christopherwalker.ca/static/css/main.d2034a94.css",
+    "main.js": "/christopherwalker.ca/static/js/main.5b4fe3eb.js",
+    "static/js/415.36d38246.chunk.js": "/christopherwalker.ca/static/js/415.36d38246.chunk.js",
+    "static/js/787.ba10f0f7.chunk.js": "/christopherwalker.ca/static/js/787.ba10f0f7.chunk.js",
+    "static/media/Vex.jpg": "/christopherwalker.ca/static/media/Vex.ff12618c99fac7f3cb52.jpg",
+    "static/media/Me.jpg": "/christopherwalker.ca/static/media/Me.f9838b2d16924cfd18d4.jpg",
+    "static/media/CU.jpg": "/christopherwalker.ca/static/media/CU.70df637871392439c89d.jpg",
+    "static/media/grade11.png": "/christopherwalker.ca/static/media/grade11.2290453a56a5f54efd58.png",
+    "static/media/G11CE.png": "/christopherwalker.ca/static/media/G11CE.18ad42796d2d02302d56.png",
+    "static/media/Digitera.png": "/christopherwalker.ca/static/media/Digitera.3594c58e99519753a038.png",
+    "static/media/Kinaxis.png": "/christopherwalker.ca/static/media/Kinaxis.be486a90804429a0650b.png",
+    "static/media/uottawa.jpg": "/christopherwalker.ca/static/media/uottawa.c54a7b8ddb4643212590.jpg",
+    "static/media/CityOfOttawa.jpeg": "/christopherwalker.ca/static/media/CityOfOttawa.c271e85409883336e0c3.jpeg",
+    "static/media/levels.png": "/christopherwalker.ca/static/media/levels.1efeedabcc15ef4eb7f7.png",
+    "index.html": "/christopherwalker.ca/index.html",
+    "main.d2034a94.css.map": "/christopherwalker.ca/static/css/main.d2034a94.css.map",
+    "main.5b4fe3eb.js.map": "/christopherwalker.ca/static/js/main.5b4fe3eb.js.map",
+    "415.36d38246.chunk.js.map": "/christopherwalker.ca/static/js/415.36d38246.chunk.js.map",
+    "787.ba10f0f7.chunk.js.map": "/christopherwalker.ca/static/js/787.ba10f0f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2034a94.css",
-    "static/js/main.766b6db5.js"
+    "static/js/main.5b4fe3eb.js"
   ]
 }
