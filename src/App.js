@@ -16,10 +16,10 @@ class App extends React.Component {
           <ParticleBackground/>
           <div >
             <Header></Header>
-            <Switch>
-              <Route exact path="/" element={<Home/>}>
+            {/* <Switch>
+              <Route exact path="" element={<Home/>}> */}
                 <Home/>
-              </Route>
+              {/* </Route>
               <Route path="/about" element={<About/>}>
                 <About/>
               </Route>
@@ -29,7 +29,7 @@ class App extends React.Component {
               <Route path="/Work" element={<Work/>}>
                 <Work/>
               </Route>
-            </Switch>
+            </Switch> */}
             </div>
             <Footer></Footer>
           </div>
