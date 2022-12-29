@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2034a94.css",
-    "main.js": "/static/js/main.766b6db5.js",
-    "static/js/415.36d38246.chunk.js": "/static/js/415.36d38246.chunk.js",
-    "static/js/787.ba10f0f7.chunk.js": "/static/js/787.ba10f0f7.chunk.js",
+    "main.css": "/static/css/main.6555d078.css",
+    "main.js": "/static/js/main.3cae65eb.js",
+    "static/js/415.5b12502c.chunk.js": "/static/js/415.5b12502c.chunk.js",
+    "static/js/787.d54456cf.chunk.js": "/static/js/787.d54456cf.chunk.js",
     "static/media/Vex.jpg": "/static/media/Vex.ff12618c99fac7f3cb52.jpg",
     "static/media/Me.jpg": "/static/media/Me.f9838b2d16924cfd18d4.jpg",
     "static/media/CU.jpg": "/static/media/CU.70df637871392439c89d.jpg",
     "static/media/grade11.png": "/static/media/grade11.2290453a56a5f54efd58.png",
     "static/media/G11CE.png": "/static/media/G11CE.18ad42796d2d02302d56.png",
+    "static/media/TBWC.jpg": "/static/media/TBWC.3c1b06eff124e86d4f6a.jpg",
+    "static/media/Mancala.png": "/static/media/Mancala.b5a81116be78e14e87eb.png",
+    "static/media/APPS.png": "/static/media/APPS.c6c644ccea2d102c0f4f.png",
     "static/media/Digitera.png": "/static/media/Digitera.3594c58e99519753a038.png",
+    "static/media/Summer 2023-Enginering.pdf": "/static/media/Summer 2023-Enginering.2e925b1b44c9e1b21d7e.pdf",
     "static/media/Kinaxis.png": "/static/media/Kinaxis.be486a90804429a0650b.png",
     "static/media/uottawa.jpg": "/static/media/uottawa.c54a7b8ddb4643212590.jpg",
     "static/media/CityOfOttawa.jpeg": "/static/media/CityOfOttawa.c271e85409883336e0c3.jpeg",
     "static/media/levels.png": "/static/media/levels.1efeedabcc15ef4eb7f7.png",
+    "static/media/NavIcon.svg": "/static/media/NavIcon.3a22a82ec6fd8aecf18718f2a3709fab.svg",
     "index.html": "/index.html",
-    "main.d2034a94.css.map": "/static/css/main.d2034a94.css.map",
-    "main.766b6db5.js.map": "/static/js/main.766b6db5.js.map",
-    "415.36d38246.chunk.js.map": "/static/js/415.36d38246.chunk.js.map",
-    "787.ba10f0f7.chunk.js.map": "/static/js/787.ba10f0f7.chunk.js.map"
+    "main.6555d078.css.map": "/static/css/main.6555d078.css.map",
+    "main.3cae65eb.js.map": "/static/js/main.3cae65eb.js.map",
+    "415.5b12502c.chunk.js.map": "/static/js/415.5b12502c.chunk.js.map",
+    "787.d54456cf.chunk.js.map": "/static/js/787.d54456cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2034a94.css",
-    "static/js/main.766b6db5.js"
+    "static/css/main.6555d078.css",
+    "static/js/main.3cae65eb.js"
   ]
 }
