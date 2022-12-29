@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6555d078.css",
-    "main.js": "/static/js/main.3cae65eb.js",
+    "main.js": "/static/js/main.51a20694.js",
     "static/js/415.5b12502c.chunk.js": "/static/js/415.5b12502c.chunk.js",
     "static/js/787.d54456cf.chunk.js": "/static/js/787.d54456cf.chunk.js",
     "static/media/Vex.jpg": "/static/media/Vex.ff12618c99fac7f3cb52.jpg",
@@ -13,7 +13,7 @@
     "static/media/Mancala.png": "/static/media/Mancala.b5a81116be78e14e87eb.png",
     "static/media/APPS.png": "/static/media/APPS.c6c644ccea2d102c0f4f.png",
     "static/media/Digitera.png": "/static/media/Digitera.3594c58e99519753a038.png",
-    "static/media/Summer 2023-Enginering.pdf": "/static/media/Summer 2023-Enginering.2e925b1b44c9e1b21d7e.pdf",
+    "static/media/Summer 2023-Enginering.pdf": "/static/media/Summer 2023-Enginering.ac60c12784b1f03a7e03.pdf",
     "static/media/Kinaxis.png": "/static/media/Kinaxis.be486a90804429a0650b.png",
     "static/media/uottawa.jpg": "/static/media/uottawa.c54a7b8ddb4643212590.jpg",
     "static/media/CityOfOttawa.jpeg": "/static/media/CityOfOttawa.c271e85409883336e0c3.jpeg",
@@ -21,12 +21,12 @@
     "static/media/NavIcon.svg": "/static/media/NavIcon.3a22a82ec6fd8aecf18718f2a3709fab.svg",
     "index.html": "/index.html",
     "main.6555d078.css.map": "/static/css/main.6555d078.css.map",
-    "main.3cae65eb.js.map": "/static/js/main.3cae65eb.js.map",
+    "main.51a20694.js.map": "/static/js/main.51a20694.js.map",
     "415.5b12502c.chunk.js.map": "/static/js/415.5b12502c.chunk.js.map",
     "787.d54456cf.chunk.js.map": "/static/js/787.d54456cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6555d078.css",
-    "static/js/main.3cae65eb.js"
+    "static/js/main.51a20694.js"
   ]
 }
